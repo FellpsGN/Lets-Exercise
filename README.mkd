@@ -1,0 +1,31 @@
+![preview](./.github/preview.png)
+
+> Trilha Explorer - Stage 02
+
+Rocketseat project built in order to strengthen technical knowledge in HTML and CSS.
+
+Projeto da Rocketseat construído com intuito de fortalecer conhecimentos técnico em HTML e CSS.
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- Git e Github
+
+## Applied Concepts
+
+> CSS
+
+- Display flex
+- align-items
+- justify-content
+- background
+- linear-gradient
+
+> HTML
+
+- main
+- section
+- footer
+- button
+- nav
